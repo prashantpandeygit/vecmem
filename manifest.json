@@ -1,0 +1,11 @@
+{
+    "name": "vecmem-mcp-server",
+    "description": "A local vector memory MCP server.",
+    "entry_point": "vecmem_mcp_server.server:app",
+    "tools": {
+      "add_text": "store text in memory.",
+      "search": "Find similar text in memory.",
+      "reset_memory": "Erase all memory."
+    }
+  }
+  
